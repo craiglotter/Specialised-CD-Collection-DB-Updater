@@ -1,0 +1,13 @@
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\bin\Release\Specialised CD Collection DB Updater.exe.config
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\bin\Release\Specialised CD Collection DB Updater.exe
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\bin\Release\Specialised CD Collection DB Updater.pdb
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\bin\Release\Specialised CD Collection DB Updater.xml
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\ResolveAssemblyReference.cache
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised_CD_Collection_DB_Updater.Display_Message.resources
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised_CD_Collection_DB_Updater.Main_Screen.resources
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised_CD_Collection_DB_Updater.Resources.resources
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised_CD_Collection_DB_Updater.Splash_Screen.resources
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised CD Collection DB Updater.vbproj.GenerateResource.Cache
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised CD Collection DB Updater.exe
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised CD Collection DB Updater.xml
+C:\Work Projects\Completed Projects\Specialised CD Collection DB Updater - 20 March 2006\Source Code\Specialised CD Collection DB Updater\obj\Release\Specialised CD Collection DB Updater.pdb
